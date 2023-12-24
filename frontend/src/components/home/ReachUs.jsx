@@ -13,9 +13,9 @@ const ReachUs = () => {
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6693.262043419009!2d73.75490603962274!3d32.98713529360973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391f96a7b539c769%3A0xbfcf08ccf1b4e1fa!2sTowakkal%20Pur%20Pakhwal%2C%20Jhelum%2C%20Punjab%2C%20Pakistan!5e0!3m2!1sen!2s!4v1703349116166!5m2!1sen!2s"
             className="w-100 h-100"
-            allowfullscreen=""
+            allowFullScreen=""
             loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"
+            referrerPolicy="no-referrer-when-downgrade"
           ></iframe>
         </div>
         <div className="col-md-4 ">
