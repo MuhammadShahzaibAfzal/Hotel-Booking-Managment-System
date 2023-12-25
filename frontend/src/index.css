@@ -3,7 +3,9 @@
 * {
   font-family: "Poppins", sans-serif;
 }
-
+body {
+  overflow-x: hidden;
+}
 .hFont {
   font-family: "Merienda", cursive;
 }
